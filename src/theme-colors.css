@@ -1,0 +1,44 @@
+:root {
+  /* Background Colors - Solid Black Theme sesuai screenshot */
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #1a1a1a;
+  --bg-tertiary: #2a2a2a;
+  --bg-card: rgba(10, 10, 10, 0.9);
+  --bg-modal: rgba(5, 5, 5, 0.95);
+  
+  /* Text Colors */
+  --text-primary: #ffffff;
+  --text-secondary: #a0a0a0;
+  --text-muted: #606060;
+  
+  /* Accent Colors - Compatible with both pages */
+  --accent-color: #00D4FF;
+  --accent-primary: #a855f7;
+  --accent-secondary: #00D4FF;
+  --accent-gradient: linear-gradient(135deg, #a855f7, #00D4FF);
+  --accent-bg: rgba(0, 212, 255, 0.1);
+  
+  /* Status Colors */
+  --status-success: #00ff88;
+  --status-error: #ff6b6b;
+  --status-warning: #ffa500;
+  --status-info: #00D4FF;
+  --success-bg: rgba(0, 255, 136, 0.1);
+  --success-text: #00ff88;
+  --error-bg: rgba(255, 107, 107, 0.1);
+  --error-text: #ff6b6b;
+  --error-color: #ff6b6b;
+  --warning-bg: rgba(255, 165, 0, 0.1);
+  --warning-text: #ffa500;
+  
+  /* Border Colors - Compatible with both pages */
+  --border-color: rgba(255, 255, 255, 0.1);
+  --border-primary: rgba(255, 255, 255, 0.1);
+  --border-secondary: rgba(255, 255, 255, 0.05);
+  --border-accent: rgba(168, 85, 247, 0.3);
+  
+  /* Shadow Colors */
+  --shadow-primary: rgba(0, 0, 0, 0.5);
+  --shadow-secondary: rgba(0, 0, 0, 0.3);
+  --shadow-glow: rgba(168, 85, 247, 0.2);
+}

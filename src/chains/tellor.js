@@ -1,0 +1,54 @@
+export const tellorConfig = {
+    chainId: 'tellor-1',
+    chainName: 'Tellor Mainnet',
+    rpc: 'https://mainnet.tellorlayer.com/rpc',
+    rest: 'https://mainnet.tellorlayer.com',
+    bip44: {
+        coinType: 118,
+    },
+    coinType: 118,
+    bech32Config: {
+        bech32PrefixAccAddr: 'loya',
+        bech32PrefixAccPub: 'loyapub',
+        bech32PrefixValAddr: 'loyavaloper',
+        bech32PrefixValPub: 'loyavaloperpub',
+        bech32PrefixConsAddr: 'loyavalcons',
+        bech32PrefixConsPub: 'loyavalconspub',
+    },
+    currencies: [
+        {
+            coinDenom: 'TRB',
+            coinMinimalDenom: 'loya',
+            coinDecimals: 6,
+            coinGeckoId: 'unknown',
+        },
+    ],
+    feeCurrencies: [
+        {
+            coinDenom: 'TRB',
+            coinMinimalDenom: 'loya',
+            coinDecimals: 6,
+            coinGeckoId: 'unknown',
+            gasPriceStep: {
+                low: 0.01,
+                average: 0.025,
+                high: 0.03,
+            },
+        },
+    ],
+    gasPriceStep: {
+        low: 0.01,
+        average: 0.025,
+        high: 0.03,
+    },
+    stakeCurrency: {
+        coinDenom: 'TRB',
+        coinMinimalDenom: 'loya',
+        coinDecimals: 6,
+        coinGeckoId: 'unknown',
+    },
+    features: [],
+    explorer: 'https://explorer.catsmile.cloud/tellor-mainnet',
+    logo: '/tellor.png',
+    color: '#00D4AA'
+};

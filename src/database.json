@@ -1,0 +1,1935 @@
+{
+  "metadata": {
+    "lastUpdated": 1755323174910,
+    "version": "1.0.0",
+    "updateInterval": 86400000,
+    "totalChains": 205
+  },
+  "chains": {
+    "aaronetwork": {
+      "chain_id": "aaronetwork",
+      "chain_name": "aaronetwork",
+      "pretty_name": "Aaron Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "aaron",
+      "slip44": 118
+    },
+    "acre_9052-1": {
+      "chain_id": "acre_9052-1",
+      "chain_name": "acrechain",
+      "pretty_name": "Acrechain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "acre",
+      "slip44": 60
+    },
+    "agoric-3": {
+      "chain_id": "agoric-3",
+      "chain_name": "agoric",
+      "pretty_name": "Agoric",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "agoric",
+      "slip44": 564
+    },
+    "aioz_168-1": {
+      "chain_id": "aioz_168-1",
+      "chain_name": "aioz",
+      "pretty_name": "AIOZ Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "aioz",
+      "slip44": 60
+    },
+    "akashnet-2": {
+      "chain_id": "akashnet-2",
+      "chain_name": "akash",
+      "pretty_name": "Akash",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "akash",
+      "slip44": 118
+    },
+    "allora-mainnet-1": {
+      "chain_id": "allora-mainnet-1",
+      "chain_name": "allora",
+      "pretty_name": "Allora",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "allo",
+      "slip44": 118
+    },
+    "althea_258432-1": {
+      "chain_id": "althea_258432-1",
+      "chain_name": "althea",
+      "pretty_name": "Althea",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "althea",
+      "slip44": 118
+    },
+    "andromeda-1": {
+      "chain_id": "andromeda-1",
+      "chain_name": "andromeda",
+      "pretty_name": "Andromeda",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "andr",
+      "slip44": 118
+    },
+    "archway-1": {
+      "chain_id": "archway-1",
+      "chain_name": "archway",
+      "pretty_name": "Archway",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "archway",
+      "slip44": 118
+    },
+    "arkeo-main-v1": {
+      "chain_id": "arkeo-main-v1",
+      "chain_name": "arkeo",
+      "pretty_name": "Arkeo",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "arkeo",
+      "slip44": 118
+    },
+    "arkh": {
+      "chain_id": "arkh",
+      "chain_name": "arkh",
+      "pretty_name": "Arkhadian",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "arkh",
+      "slip44": 118
+    },
+    "mantle-1": {
+      "chain_id": "mantle-1",
+      "chain_name": "assetmantle",
+      "pretty_name": "AssetMantle",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "mantle",
+      "slip44": 118
+    },
+    "atomone-1": {
+      "chain_id": "atomone-1",
+      "chain_name": "atomone",
+      "pretty_name": "AtomOne",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "atone",
+      "slip44": 118
+    },
+    "aura_6322-2": {
+      "chain_id": "aura_6322-2",
+      "chain_name": "aura",
+      "pretty_name": "Aura Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "aura",
+      "slip44": 118
+    },
+    "axelar-dojo-1": {
+      "chain_id": "axelar-dojo-1",
+      "chain_name": "axelar",
+      "pretty_name": "Axelar",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "axelar",
+      "slip44": 118
+    },
+    "axone-1": {
+      "chain_id": "axone-1",
+      "chain_name": "axone",
+      "pretty_name": "Axone",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "axone",
+      "slip44": 118
+    },
+    "bbn-1": {
+      "chain_id": "bbn-1",
+      "chain_name": "babylon",
+      "pretty_name": "Babylon Genesis",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "bbn",
+      "slip44": 118
+    },
+    "laozi-mainnet": {
+      "chain_id": "laozi-mainnet",
+      "chain_name": "bandchain",
+      "pretty_name": "Band Protocol",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "band",
+      "slip44": 494
+    },
+    "beezee-1": {
+      "chain_id": "beezee-1",
+      "chain_name": "beezee",
+      "pretty_name": "BeeZee",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "bze",
+      "slip44": 118
+    },
+    "bitbadges-1": {
+      "chain_id": "bitbadges-1",
+      "chain_name": "bitbadges",
+      "pretty_name": "BitBadges",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "bb",
+      "slip44": 118
+    },
+    "bitcanna-1": {
+      "chain_id": "bitcanna-1",
+      "chain_name": "bitcanna",
+      "pretty_name": "BitCanna",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "bcna",
+      "slip44": 118
+    },
+    "bitsong-2b": {
+      "chain_id": "bitsong-2b",
+      "chain_name": "bitsong",
+      "pretty_name": "BitSong",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "bitsong",
+      "slip44": 639
+    },
+    "blockx_19191-1": {
+      "chain_id": "blockx_19191-1",
+      "chain_name": "blockx",
+      "pretty_name": "BlockX",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "blockx",
+      "slip44": 118
+    },
+    "bluechip-2": {
+      "chain_id": "bluechip-2",
+      "chain_name": "bluechip",
+      "pretty_name": "BlueChip",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "bcp",
+      "slip44": 118
+    },
+    "bluzelle-9": {
+      "chain_id": "bluzelle-9",
+      "chain_name": "bluzelle",
+      "pretty_name": "Bluzelle",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "bluzelle",
+      "slip44": 483
+    },
+    "bostrom": {
+      "chain_id": "bostrom",
+      "chain_name": "bostrom",
+      "pretty_name": "bostrom",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "bostrom",
+      "slip44": 118
+    },
+    "bouachain": {
+      "chain_id": "bouachain",
+      "chain_name": "bouachain",
+      "pretty_name": "Bouachain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "boua",
+      "slip44": 118
+    },
+    "bcx_323-1": {
+      "chain_id": "bcx_323-1",
+      "chain_name": "buycex",
+      "pretty_name": "BuyCex Infinity Chain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "bcx",
+      "slip44": 60
+    },
+    "canto_7700-1": {
+      "chain_id": "canto_7700-1",
+      "chain_name": "canto",
+      "pretty_name": "Canto",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "canto",
+      "slip44": 60
+    },
+    "carbon-1": {
+      "chain_id": "carbon-1",
+      "chain_name": "carbon",
+      "pretty_name": "Carbon",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "swth",
+      "slip44": 118
+    },
+    "celestia": {
+      "chain_id": "celestia",
+      "chain_name": "celestia",
+      "pretty_name": "Celestia",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "celestia",
+      "slip44": 118
+    },
+    "perun-1": {
+      "chain_id": "perun-1",
+      "chain_name": "chain4energy",
+      "pretty_name": "C4E",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "c4e",
+      "slip44": 118
+    },
+    "cheqd-mainnet-1": {
+      "chain_id": "cheqd-mainnet-1",
+      "chain_name": "cheqd",
+      "pretty_name": "Cheqd",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "cheqd",
+      "slip44": 118
+    },
+    "chihuahua-1": {
+      "chain_id": "chihuahua-1",
+      "chain_name": "chihuahua",
+      "pretty_name": "Chihuahua",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "chihuahua",
+      "slip44": 118
+    },
+    "chimba": {
+      "chain_id": "chimba",
+      "chain_name": "chimba",
+      "pretty_name": "Chimba",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "chimba",
+      "slip44": 118
+    },
+    "cifer-2": {
+      "chain_id": "cifer-2",
+      "chain_name": "cifer",
+      "pretty_name": "Cifer",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "cife",
+      "slip44": 118
+    },
+    "cnho_stables-1": {
+      "chain_id": "cnho_stables-1",
+      "chain_name": "cnhostables",
+      "pretty_name": "CNHO Stables",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "cnho",
+      "slip44": 118
+    },
+    "comdex-1": {
+      "chain_id": "comdex-1",
+      "chain_name": "comdex",
+      "pretty_name": "Comdex",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "comdex",
+      "slip44": 118
+    },
+    "commercio-3": {
+      "chain_id": "commercio-3",
+      "chain_name": "commercionetwork",
+      "pretty_name": "Commercio.network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "did:com:",
+      "slip44": 701
+    },
+    "centauri-1": {
+      "chain_id": "centauri-1",
+      "chain_name": "composable",
+      "pretty_name": "Picasso",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "pica",
+      "slip44": 118
+    },
+    "cvn_2032-1": {
+      "chain_id": "cvn_2032-1",
+      "chain_name": "conscious",
+      "pretty_name": "ConsciousDAO",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "cvn",
+      "slip44": 60
+    },
+    "coreum-mainnet-1": {
+      "chain_id": "coreum-mainnet-1",
+      "chain_name": "coreum",
+      "pretty_name": "Coreum",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "core",
+      "slip44": 990
+    },
+    "cosmoshub-4": {
+      "chain_id": "cosmoshub-4",
+      "chain_name": "cosmoshub",
+      "pretty_name": "Cosmos Hub",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "cosmos",
+      "slip44": 118
+    },
+    "coss-1": {
+      "chain_id": "coss-1",
+      "chain_name": "coss",
+      "pretty_name": "COSS",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "coss",
+      "slip44": 118
+    },
+    "crescent-1": {
+      "chain_id": "crescent-1",
+      "chain_name": "crescent",
+      "pretty_name": "Crescent",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "cre",
+      "slip44": 118
+    },
+    "cronosmainnet_25-1": {
+      "chain_id": "cronosmainnet_25-1",
+      "chain_name": "cronos",
+      "pretty_name": "Cronos",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "crc",
+      "slip44": 60
+    },
+    "crypto-org-chain-mainnet-1": {
+      "chain_id": "crypto-org-chain-mainnet-1",
+      "chain_name": "cryptoorgchain",
+      "pretty_name": "Cronos POS Chain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "cro",
+      "slip44": 394
+    },
+    "mainnet-3": {
+      "chain_id": "mainnet-3",
+      "chain_name": "decentr",
+      "pretty_name": "Decentr",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "decentr",
+      "slip44": 118
+    },
+    "desmos-mainnet": {
+      "chain_id": "desmos-mainnet",
+      "chain_name": "desmos",
+      "pretty_name": "Desmos",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "desmos",
+      "slip44": 852
+    },
+    "dhealth": {
+      "chain_id": "dhealth",
+      "chain_name": "dhealth",
+      "pretty_name": "dHealth",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "dh",
+      "slip44": 10111
+    },
+    "vota-ash": {
+      "chain_id": "vota-ash",
+      "chain_name": "doravota",
+      "pretty_name": "Dora Vota",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "dora",
+      "slip44": 118
+    },
+    "dungeon-1": {
+      "chain_id": "dungeon-1",
+      "chain_name": "dungeon",
+      "pretty_name": "Dungeon Chain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "dungeon",
+      "slip44": 118
+    },
+    "dydx-mainnet-1": {
+      "chain_id": "dydx-mainnet-1",
+      "chain_name": "dydx",
+      "pretty_name": "dYdX Protocol",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "dydx",
+      "slip44": 118
+    },
+    "dymension_1100-1": {
+      "chain_id": "dymension_1100-1",
+      "chain_name": "dymension",
+      "pretty_name": "Dymension Hub",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "dym",
+      "slip44": 60
+    },
+    "dyson-mainnet-01": {
+      "chain_id": "dyson-mainnet-01",
+      "chain_name": "dyson",
+      "pretty_name": "Dyson Protocol",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "dys",
+      "slip44": 118
+    },
+    "echelon_3000-3": {
+      "chain_id": "echelon_3000-3",
+      "chain_name": "echelon",
+      "pretty_name": "Echelon",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "echelon",
+      "slip44": 60
+    },
+    "elys-1": {
+      "chain_id": "elys-1",
+      "chain_name": "elys",
+      "pretty_name": "Elys Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "elys",
+      "slip44": 118
+    },
+    "emoney-3": {
+      "chain_id": "emoney-3",
+      "chain_name": "emoney",
+      "pretty_name": "e-Money",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "emoney",
+      "slip44": 118
+    },
+    "empowerchain-1": {
+      "chain_id": "empowerchain-1",
+      "chain_name": "empowerchain",
+      "pretty_name": "EmpowerChain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "empower",
+      "slip44": 118
+    },
+    "epix_1916-1": {
+      "chain_id": "epix_1916-1",
+      "chain_name": "epix",
+      "pretty_name": "Epix",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "epix",
+      "slip44": 60
+    },
+    "ethos_7003-1": {
+      "chain_id": "ethos_7003-1",
+      "chain_name": "ethos",
+      "pretty_name": "Ethos",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "ethos",
+      "slip44": 60
+    },
+    "evmos_9001-2": {
+      "chain_id": "evmos_9001-2",
+      "chain_name": "evmos",
+      "pretty_name": "Evmos",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "evmos",
+      "slip44": 60
+    },
+    "fetchhub-4": {
+      "chain_id": "fetchhub-4",
+      "chain_name": "fetchhub",
+      "pretty_name": "Fetch.ai",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "fetch",
+      "slip44": 118
+    },
+    "finschia-2": {
+      "chain_id": "finschia-2",
+      "chain_name": "finschia",
+      "pretty_name": "Finschia",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "link",
+      "slip44": 438
+    },
+    "colosseum-1": {
+      "chain_id": "colosseum-1",
+      "chain_name": "firmachain",
+      "pretty_name": "FIRMACHAIN",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "firma",
+      "slip44": 7777777
+    },
+    "furya-1": {
+      "chain_id": "furya-1",
+      "chain_name": "furya",
+      "pretty_name": "furya",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "furya",
+      "slip44": 118
+    },
+    "fxcore": {
+      "chain_id": "fxcore",
+      "chain_name": "fxcore",
+      "pretty_name": "Pundi AIFX",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "fx",
+      "slip44": 60
+    },
+    "galaxy-1": {
+      "chain_id": "galaxy-1",
+      "chain_name": "galaxy",
+      "pretty_name": "Galaxy",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "galaxy",
+      "slip44": 118
+    },
+    "wormchain": {
+      "chain_id": "wormchain",
+      "chain_name": "gateway",
+      "pretty_name": "Wormhole Gateway",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "wormhole",
+      "slip44": 118
+    },
+    "genesis_29-2": {
+      "chain_id": "genesis_29-2",
+      "chain_name": "genesisl1",
+      "pretty_name": "GenesisL1",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "genesis",
+      "slip44": 118
+    },
+    "ggezchain": {
+      "chain_id": "ggezchain",
+      "chain_name": "ggezchain",
+      "pretty_name": "GGEZ1 Chain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "ggez",
+      "slip44": 118
+    },
+    "gitopia": {
+      "chain_id": "gitopia",
+      "chain_name": "gitopia",
+      "pretty_name": "Gitopia",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "gitopia",
+      "slip44": 118
+    },
+    "govgen-1": {
+      "chain_id": "govgen-1",
+      "chain_name": "govgen",
+      "pretty_name": "GovGen",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "govgen",
+      "slip44": 118
+    },
+    "gravity-bridge-3": {
+      "chain_id": "gravity-bridge-3",
+      "chain_name": "gravitybridge",
+      "pretty_name": "Gravity Bridge",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "gravity",
+      "slip44": 118
+    },
+    "haqq_11235-1": {
+      "chain_id": "haqq_11235-1",
+      "chain_name": "haqq",
+      "pretty_name": "Haqq Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "haqq",
+      "slip44": 60
+    },
+    "helichain": {
+      "chain_id": "helichain",
+      "chain_name": "heli",
+      "pretty_name": "HeliChain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "heli",
+      "slip44": 118
+    },
+    "highbury_710-1": {
+      "chain_id": "highbury_710-1",
+      "chain_name": "highbury",
+      "pretty_name": "Highbury",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "fury",
+      "slip44": 459
+    },
+    "hippo-protocol-1": {
+      "chain_id": "hippo-protocol-1",
+      "chain_name": "hippoprotocol",
+      "pretty_name": "Hippo Protocol",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "hippo",
+      "slip44": 0
+    },
+    "humans_1089-1": {
+      "chain_id": "humans_1089-1",
+      "chain_name": "humans",
+      "pretty_name": "Humans.ai",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "human",
+      "slip44": 60
+    },
+    "Antora": {
+      "chain_id": "Antora",
+      "chain_name": "idep",
+      "pretty_name": "IDEP",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "idep",
+      "slip44": 118
+    },
+    "ixo-5": {
+      "chain_id": "ixo-5",
+      "chain_name": "impacthub",
+      "pretty_name": "Impact Hub",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "ixo",
+      "slip44": 118
+    },
+    "imversed_5555555-1": {
+      "chain_id": "imversed_5555555-1",
+      "chain_name": "imversed",
+      "pretty_name": "Imversed",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "imv",
+      "slip44": 60
+    },
+    "interwoven-1": {
+      "chain_id": "interwoven-1",
+      "chain_name": "initia",
+      "pretty_name": "Initia",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "init",
+      "slip44": 60
+    },
+    "injective-1": {
+      "chain_id": "injective-1",
+      "chain_name": "injective",
+      "pretty_name": "Injective",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "inj",
+      "slip44": 60
+    },
+    "int3face-1": {
+      "chain_id": "int3face-1",
+      "chain_name": "int3face",
+      "pretty_name": "Int3face",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "int3",
+      "slip44": 118
+    },
+    "irishub-1": {
+      "chain_id": "irishub-1",
+      "chain_name": "irisnet",
+      "pretty_name": "IRISnet",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "iaa",
+      "slip44": 118
+    },
+    "jackal-1": {
+      "chain_id": "jackal-1",
+      "chain_name": "jackal",
+      "pretty_name": "Jackal",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "jkl",
+      "slip44": 118
+    },
+    "joltify_1729-1": {
+      "chain_id": "joltify_1729-1",
+      "chain_name": "joltify",
+      "pretty_name": "Joltify",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "jolt",
+      "slip44": 118
+    },
+    "juno-1": {
+      "chain_id": "juno-1",
+      "chain_name": "juno",
+      "pretty_name": "Juno",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "juno",
+      "slip44": 118
+    },
+    "kava_2222-10": {
+      "chain_id": "kava_2222-10",
+      "chain_name": "kava",
+      "pretty_name": "Kava",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "kava",
+      "slip44": 459
+    },
+    "kichain-2": {
+      "chain_id": "kichain-2",
+      "chain_name": "kichain",
+      "pretty_name": "Ki",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "ki",
+      "slip44": 118
+    },
+    "kima_network": {
+      "chain_id": "kima_network",
+      "chain_name": "kimanetwork",
+      "pretty_name": "Kima Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "kima",
+      "slip44": 118
+    },
+    "darchub": {
+      "chain_id": "darchub",
+      "chain_name": "konstellation",
+      "pretty_name": "Konstellation",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "darc",
+      "slip44": 118
+    },
+    "luwak-1": {
+      "chain_id": "luwak-1",
+      "chain_name": "kopi",
+      "pretty_name": "Kopi",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "kopi",
+      "slip44": 118
+    },
+    "kaiyo-1": {
+      "chain_id": "kaiyo-1",
+      "chain_name": "kujira",
+      "pretty_name": "Kujira",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "kujira",
+      "slip44": 118
+    },
+    "kyve-1": {
+      "chain_id": "kyve-1",
+      "chain_name": "kyve",
+      "pretty_name": "KYVE",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "kyve",
+      "slip44": 118
+    },
+    "lambda_92000-1": {
+      "chain_id": "lambda_92000-1",
+      "chain_name": "lambda",
+      "pretty_name": "Lambda",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "lamb",
+      "slip44": 60
+    },
+    "lava-mainnet-1": {
+      "chain_id": "lava-mainnet-1",
+      "chain_name": "lava",
+      "pretty_name": "Lava",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "lava@",
+      "slip44": 118
+    },
+    "lefeef-mainnet": {
+      "chain_id": "lefeef-mainnet",
+      "chain_name": "lefeef",
+      "pretty_name": "lefeef",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "lefeef",
+      "slip44": 118
+    },
+    "likecoin-mainnet-2": {
+      "chain_id": "likecoin-mainnet-2",
+      "chain_name": "likecoin",
+      "pretty_name": "LikeCoin",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "like",
+      "slip44": 118
+    },
+    "logos_7002-1": {
+      "chain_id": "logos_7002-1",
+      "chain_name": "logos",
+      "pretty_name": "Logos",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "logos",
+      "slip44": 60
+    },
+    "ledger-mainnet-1": {
+      "chain_id": "ledger-mainnet-1",
+      "chain_name": "lombardledger",
+      "pretty_name": "Lombard Ledger",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "lom",
+      "slip44": 118
+    },
+    "loop-1": {
+      "chain_id": "loop-1",
+      "chain_name": "loop",
+      "pretty_name": "Loop",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "loop",
+      "slip44": 118
+    },
+    "lorenzo_8329-1": {
+      "chain_id": "lorenzo_8329-1",
+      "chain_name": "lorenzo",
+      "pretty_name": "Lorenzo Protocol",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "lrz",
+      "slip44": 60
+    },
+    "loyal-main-02": {
+      "chain_id": "loyal-main-02",
+      "chain_name": "loyal",
+      "pretty_name": "Loyal",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "loyal",
+      "slip44": 118
+    },
+    "lumera-mainnet-1": {
+      "chain_id": "lumera-mainnet-1",
+      "chain_name": "lumera",
+      "pretty_name": "Lumera",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "lumera",
+      "slip44": 118
+    },
+    "lum-network-1": {
+      "chain_id": "lum-network-1",
+      "chain_name": "lumnetwork",
+      "pretty_name": "Lum Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "lum",
+      "slip44": 880
+    },
+    "mande_18071918-1": {
+      "chain_id": "mande_18071918-1",
+      "chain_name": "mande",
+      "pretty_name": "Mande Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "mande",
+      "slip44": 60
+    },
+    "manifest-ledger-mainnet": {
+      "chain_id": "manifest-ledger-mainnet",
+      "chain_name": "manifest",
+      "pretty_name": "Manifest",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "manifest",
+      "slip44": 118
+    },
+    "mantra-1": {
+      "chain_id": "mantra-1",
+      "chain_name": "mantrachain",
+      "pretty_name": "MANTRA",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "mantra",
+      "slip44": 118
+    },
+    "mayachain-mainnet-v1": {
+      "chain_id": "mayachain-mainnet-v1",
+      "chain_name": "mayachain",
+      "pretty_name": "Maya Protocol",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "maya",
+      "slip44": 931
+    },
+    "medasdigital-2": {
+      "chain_id": "medasdigital-2",
+      "chain_name": "medasdigital",
+      "pretty_name": "Medas Digital Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "medas",
+      "slip44": 118
+    },
+    "meme-1": {
+      "chain_id": "meme-1",
+      "chain_name": "meme",
+      "pretty_name": "MEME",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "meme",
+      "slip44": 118
+    },
+    "migaloo-1": {
+      "chain_id": "migaloo-1",
+      "chain_name": "migaloo",
+      "pretty_name": "Migaloo",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "migaloo",
+      "slip44": 118
+    },
+    "milkyway": {
+      "chain_id": "milkyway",
+      "chain_name": "milkyway",
+      "pretty_name": "MilkyWay",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "milk",
+      "slip44": 118
+    },
+    "mainnet": {
+      "chain_id": "mainnet",
+      "chain_name": "mises",
+      "pretty_name": "Mises",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "mises",
+      "slip44": 118
+    },
+    "mtgbp-1": {
+      "chain_id": "mtgbp-1",
+      "chain_name": "mtgbp",
+      "pretty_name": "mtgbp",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "mtgbp",
+      "slip44": 118
+    },
+    "mun-1": {
+      "chain_id": "mun-1",
+      "chain_name": "mun",
+      "pretty_name": "Mun",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "mun",
+      "slip44": 118
+    },
+    "mythos_7001-1": {
+      "chain_id": "mythos_7001-1",
+      "chain_name": "mythos",
+      "pretty_name": "Mythos",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "mythos",
+      "slip44": 60
+    },
+    "neura_266-1": {
+      "chain_id": "neura_266-1",
+      "chain_name": "neura",
+      "pretty_name": "Neura",
+      "network_type": "mainnet",
+      "status": "upcoming",
+      "bech32_prefix": "neura",
+      "slip44": 60
+    },
+    "Neutaro-1": {
+      "chain_id": "Neutaro-1",
+      "chain_name": "neutaro",
+      "pretty_name": "Neutaro",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "neutaro",
+      "slip44": 118
+    },
+    "neutron-1": {
+      "chain_id": "neutron-1",
+      "chain_name": "neutron",
+      "pretty_name": "Neutron",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "neutron",
+      "slip44": 118
+    },
+    "cataclysm-1": {
+      "chain_id": "cataclysm-1",
+      "chain_name": "nibiru",
+      "pretty_name": "Nibiru",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "nibi",
+      "slip44": 118
+    },
+    "nillion-1": {
+      "chain_id": "nillion-1",
+      "chain_name": "nillion",
+      "pretty_name": "Nillion",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "nillion",
+      "slip44": 118
+    },
+    "nim_1122-1": {
+      "chain_id": "nim_1122-1",
+      "chain_name": "nim",
+      "pretty_name": "Nim Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "nim",
+      "slip44": 60
+    },
+    "noble-1": {
+      "chain_id": "noble-1",
+      "chain_name": "noble",
+      "pretty_name": "Noble",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "noble",
+      "slip44": 118
+    },
+    "pirin-1": {
+      "chain_id": "pirin-1",
+      "chain_name": "nolus",
+      "pretty_name": "Nolus",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "nolus",
+      "slip44": 118
+    },
+    "nomic-stakenet-3": {
+      "chain_id": "nomic-stakenet-3",
+      "chain_name": "nomic",
+      "pretty_name": "Nomic",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "nomic",
+      "slip44": 118
+    },
+    "nyx": {
+      "chain_id": "nyx",
+      "chain_name": "nyx",
+      "pretty_name": "Nym",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "n",
+      "slip44": 118
+    },
+    "octa": {
+      "chain_id": "octa",
+      "chain_name": "octa",
+      "pretty_name": "Octa",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "octa",
+      "slip44": 118
+    },
+    "odin-mainnet-freya": {
+      "chain_id": "odin-mainnet-freya",
+      "chain_name": "odin",
+      "pretty_name": "Odin Protocol",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "odin",
+      "slip44": 118
+    },
+    "exchain-66": {
+      "chain_id": "exchain-66",
+      "chain_name": "okexchain",
+      "pretty_name": "OKExChain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "ex",
+      "slip44": 60
+    },
+    "omniflixhub-1": {
+      "chain_id": "omniflixhub-1",
+      "chain_name": "omniflixhub",
+      "pretty_name": "OmniFlix",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "omniflix",
+      "slip44": 118
+    },
+    "onex-mainnet-1": {
+      "chain_id": "onex-mainnet-1",
+      "chain_name": "onex",
+      "pretty_name": "ONEX",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "onomy",
+      "slip44": 118
+    },
+    "onomy-mainnet-1": {
+      "chain_id": "onomy-mainnet-1",
+      "chain_name": "onomy",
+      "pretty_name": "Onomy",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "onomy",
+      "slip44": 118
+    },
+    "opct_1": {
+      "chain_id": "opct_1",
+      "chain_name": "opct",
+      "pretty_name": "OPCT Chain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "opct",
+      "slip44": 118
+    },
+    "Oraichain": {
+      "chain_id": "Oraichain",
+      "chain_name": "oraichain",
+      "pretty_name": "Oraichain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "orai",
+      "slip44": 118
+    },
+    "osmosis-1": {
+      "chain_id": "osmosis-1",
+      "chain_name": "osmosis",
+      "pretty_name": "Osmosis",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "osmo",
+      "slip44": 118
+    },
+    "tumbler": {
+      "chain_id": "tumbler",
+      "chain_name": "paloma",
+      "pretty_name": "Paloma",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "paloma",
+      "slip44": 118
+    },
+    "panacea-3": {
+      "chain_id": "panacea-3",
+      "chain_name": "panacea",
+      "pretty_name": "Medibloc",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "panacea",
+      "slip44": 371
+    },
+    "passage-2": {
+      "chain_id": "passage-2",
+      "chain_name": "passage",
+      "pretty_name": "Passage",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "pasg",
+      "slip44": 118
+    },
+    "paxi-mainnet": {
+      "chain_id": "paxi-mainnet",
+      "chain_name": "paxi",
+      "pretty_name": "Paxi",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "paxi",
+      "slip44": 118
+    },
+    "core-1": {
+      "chain_id": "core-1",
+      "chain_name": "persistence",
+      "pretty_name": "Persistence",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "persistence",
+      "slip44": 118
+    },
+    "planq_7070-2": {
+      "chain_id": "planq_7070-2",
+      "chain_name": "planq",
+      "pretty_name": "Planq",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "plq",
+      "slip44": 60
+    },
+    "pocket": {
+      "chain_id": "pocket",
+      "chain_name": "pocket",
+      "pretty_name": "Pocket Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "pokt",
+      "slip44": 118
+    },
+    "point_10687-1": {
+      "chain_id": "point_10687-1",
+      "chain_name": "point",
+      "pretty_name": "Point Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "point",
+      "slip44": 60
+    },
+    "pio-mainnet-1": {
+      "chain_id": "pio-mainnet-1",
+      "chain_name": "provenance",
+      "pretty_name": "Provenance",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "pb",
+      "slip44": 505
+    },
+    "pryzm-1": {
+      "chain_id": "pryzm-1",
+      "chain_name": "pryzm",
+      "pretty_name": "Pryzm",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "pryzm",
+      "slip44": 118
+    },
+    "PUNDIX": {
+      "chain_id": "PUNDIX",
+      "chain_name": "pundix",
+      "pretty_name": "Pundi X Chain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "px",
+      "slip44": 118
+    },
+    "pylons-mainnet-1": {
+      "chain_id": "pylons-mainnet-1",
+      "chain_name": "pylons",
+      "pretty_name": "Pylons",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "pylo",
+      "slip44": 118
+    },
+    "qfs-1": {
+      "chain_id": "qfs-1",
+      "chain_name": "qfs",
+      "pretty_name": "Quantum Financial Systems",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "qfs",
+      "slip44": 118
+    },
+    "quasar-1": {
+      "chain_id": "quasar-1",
+      "chain_name": "quasar",
+      "pretty_name": "Quasar",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "quasar",
+      "slip44": 118
+    },
+    "qubetics_9030-1": {
+      "chain_id": "qubetics_9030-1",
+      "chain_name": "qubetics",
+      "pretty_name": "Qubetics",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "qubetics",
+      "slip44": 60
+    },
+    "quicksilver-2": {
+      "chain_id": "quicksilver-2",
+      "chain_name": "quicksilver",
+      "pretty_name": "Quicksilver",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "quick",
+      "slip44": 118
+    },
+    "qwoyn-1": {
+      "chain_id": "qwoyn-1",
+      "chain_name": "qwoyn",
+      "pretty_name": "Qwoyn",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "qwoyn",
+      "slip44": 118
+    },
+    "realionetwork_3301-1": {
+      "chain_id": "realionetwork_3301-1",
+      "chain_name": "realio",
+      "pretty_name": "Realio Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "realio",
+      "slip44": 60
+    },
+    "reb_1111-1": {
+      "chain_id": "reb_1111-1",
+      "chain_name": "rebus",
+      "pretty_name": "Rebus",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "rebus",
+      "slip44": 118
+    },
+    "regen-1": {
+      "chain_id": "regen-1",
+      "chain_name": "regen",
+      "pretty_name": "Regen",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "regen",
+      "slip44": 118
+    },
+    "titan-1": {
+      "chain_id": "titan-1",
+      "chain_name": "rizon",
+      "pretty_name": "Rizon",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "rizon",
+      "slip44": 118
+    },
+    "router_9600-1": {
+      "chain_id": "router_9600-1",
+      "chain_name": "routerchain",
+      "pretty_name": "Router Protocol",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "router",
+      "slip44": 60
+    },
+    "ssc-1": {
+      "chain_id": "ssc-1",
+      "chain_name": "saga",
+      "pretty_name": "Saga",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "saga",
+      "slip44": 118
+    },
+    "scorum-1": {
+      "chain_id": "scorum-1",
+      "chain_name": "scorum",
+      "pretty_name": "Scorum Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "scorum",
+      "slip44": 118
+    },
+    "secret-4": {
+      "chain_id": "secret-4",
+      "chain_name": "secretnetwork",
+      "pretty_name": "Secret Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "secret",
+      "slip44": 529
+    },
+    "seda-1": {
+      "chain_id": "seda-1",
+      "chain_name": "seda",
+      "pretty_name": "SEDA",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "seda",
+      "slip44": 118
+    },
+    "pacific-1": {
+      "chain_id": "pacific-1",
+      "chain_name": "sei",
+      "pretty_name": "Sei",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "sei",
+      "slip44": 118
+    },
+    "self-1": {
+      "chain_id": "self-1",
+      "chain_name": "self",
+      "pretty_name": "Self Chain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "self",
+      "slip44": 118
+    },
+    "sentinelhub-2": {
+      "chain_id": "sentinelhub-2",
+      "chain_name": "sentinel",
+      "pretty_name": "Sentinel",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "sent",
+      "slip44": 118
+    },
+    "sgenet-1": {
+      "chain_id": "sgenet-1",
+      "chain_name": "sge",
+      "pretty_name": "SGE",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "sge",
+      "slip44": 118
+    },
+    "ShareRing-VoyagerNet": {
+      "chain_id": "ShareRing-VoyagerNet",
+      "chain_name": "shareledger",
+      "pretty_name": "Shareledger",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "shareledger",
+      "slip44": 118
+    },
+    "shentu-2.2": {
+      "chain_id": "shentu-2.2",
+      "chain_name": "shentu",
+      "pretty_name": "Shentu",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "shentu",
+      "slip44": 118
+    },
+    "shido_9008-1": {
+      "chain_id": "shido_9008-1",
+      "chain_name": "shido",
+      "pretty_name": "Shido",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "shido",
+      "slip44": 60
+    },
+    "sidechain-1": {
+      "chain_id": "sidechain-1",
+      "chain_name": "sidechain",
+      "pretty_name": "Side Chain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "bc",
+      "slip44": 118
+    },
+    "sifchain-1": {
+      "chain_id": "sifchain-1",
+      "chain_name": "sifchain",
+      "pretty_name": "Sifchain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "sif",
+      "slip44": 118
+    },
+    "sixnet": {
+      "chain_id": "sixnet",
+      "chain_name": "six",
+      "pretty_name": "SIX Protocol",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "6x",
+      "slip44": 118
+    },
+    "sommelier-3": {
+      "chain_id": "sommelier-3",
+      "chain_name": "sommelier",
+      "pretty_name": "Sommelier",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "somm",
+      "slip44": 118
+    },
+    "source-1": {
+      "chain_id": "source-1",
+      "chain_name": "source",
+      "pretty_name": "Source",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "source",
+      "slip44": 118
+    },
+    "stafihub-1": {
+      "chain_id": "stafihub-1",
+      "chain_name": "stafihub",
+      "pretty_name": "StaFi Hub",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "stafi",
+      "slip44": 118
+    },
+    "stargaze-1": {
+      "chain_id": "stargaze-1",
+      "chain_name": "stargaze",
+      "pretty_name": "Stargaze",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "stars",
+      "slip44": 118
+    },
+    "iov-mainnet-ibc": {
+      "chain_id": "iov-mainnet-ibc",
+      "chain_name": "starname",
+      "pretty_name": "Starname",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "star",
+      "slip44": 234
+    },
+    "stratos-1": {
+      "chain_id": "stratos-1",
+      "chain_name": "stratos",
+      "pretty_name": "Stratos",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "st",
+      "slip44": 606
+    },
+    "stride-1": {
+      "chain_id": "stride-1",
+      "chain_name": "stride",
+      "pretty_name": "Stride",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "stride",
+      "slip44": 118
+    },
+    "sunrise-1": {
+      "chain_id": "sunrise-1",
+      "chain_name": "sunrise",
+      "pretty_name": "Sunrise",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "sunrise",
+      "slip44": 118
+    },
+    "symphony-1": {
+      "chain_id": "symphony-1",
+      "chain_name": "symphony",
+      "pretty_name": "Symphony",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "symphony",
+      "slip44": 118
+    },
+    "synternet-1": {
+      "chain_id": "synternet-1",
+      "chain_name": "synternet",
+      "pretty_name": "Synternet",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "synt",
+      "slip44": 118
+    },
+    "taketitan-1": {
+      "chain_id": "taketitan-1",
+      "chain_name": "taketitan",
+      "pretty_name": "TakeTitan",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "titan",
+      "slip44": 118
+    },
+    "tenet_1559-1": {
+      "chain_id": "tenet_1559-1",
+      "chain_name": "tenet",
+      "pretty_name": "Tenet",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "tenet",
+      "slip44": 60
+    },
+    "teritori-1": {
+      "chain_id": "teritori-1",
+      "chain_name": "teritori",
+      "pretty_name": "Teritori",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "tori",
+      "slip44": 118
+    },
+    "morocco-1": {
+      "chain_id": "morocco-1",
+      "chain_name": "terpnetwork",
+      "pretty_name": "Terp-Network",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "terp",
+      "slip44": 118
+    },
+    "columbus-5": {
+      "chain_id": "columbus-5",
+      "chain_name": "terra",
+      "pretty_name": "Terra Classic",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "terra",
+      "slip44": 330
+    },
+    "phoenix-1": {
+      "chain_id": "phoenix-1",
+      "chain_name": "terra2",
+      "pretty_name": "Terra",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "terra",
+      "slip44": 330
+    },
+    "tgrade-mainnet-1": {
+      "chain_id": "tgrade-mainnet-1",
+      "chain_name": "tgrade",
+      "pretty_name": "Tgrade",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "tgrade",
+      "slip44": 118
+    },
+    "thorchain-1": {
+      "chain_id": "thorchain-1",
+      "chain_name": "thorchain",
+      "pretty_name": "THORChain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "thor",
+      "slip44": 931
+    },
+    "titan_18888-1": {
+      "chain_id": "titan_18888-1",
+      "chain_name": "titan",
+      "pretty_name": "Titan",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "titan",
+      "slip44": 60
+    },
+    "umee-1": {
+      "chain_id": "umee-1",
+      "chain_name": "umee",
+      "pretty_name": "UX Chain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "umee",
+      "slip44": 118
+    },
+    "unicorn-420": {
+      "chain_id": "unicorn-420",
+      "chain_name": "unicorn",
+      "pretty_name": "Unicorn",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "unicorn",
+      "slip44": 118
+    },
+    "FUND-MainNet-2": {
+      "chain_id": "FUND-MainNet-2",
+      "chain_name": "unification",
+      "pretty_name": "Unification",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "und",
+      "slip44": 5555
+    },
+    "ununifi-beta-v1": {
+      "chain_id": "ununifi-beta-v1",
+      "chain_name": "ununifi",
+      "pretty_name": "UnUniFi",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "ununifi",
+      "slip44": 118
+    },
+    "uptick_117-1": {
+      "chain_id": "uptick_117-1",
+      "chain_name": "uptick",
+      "pretty_name": "Uptick",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "uptick",
+      "slip44": 60
+    },
+    "vector-1": {
+      "chain_id": "vector-1",
+      "chain_name": "vector",
+      "pretty_name": "Vector",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "vector",
+      "slip44": 118
+    },
+    "xarchain": {
+      "chain_id": "xarchain",
+      "chain_name": "xarchain",
+      "pretty_name": "XarChain Coral",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "arcana",
+      "slip44": 118
+    },
+    "xion-mainnet-1": {
+      "chain_id": "xion-mainnet-1",
+      "chain_name": "xion",
+      "pretty_name": "Xion",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "xion",
+      "slip44": 118
+    },
+    "dimension_37-1": {
+      "chain_id": "dimension_37-1",
+      "chain_name": "xpla",
+      "pretty_name": "XPLA",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "xpla",
+      "slip44": 60
+    },
+    "xrplevm_1440000-1": {
+      "chain_id": "xrplevm_1440000-1",
+      "chain_name": "xrplevm",
+      "pretty_name": "XRPL EVM",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "ethm",
+      "slip44": 60
+    },
+    "diamond-1": {
+      "chain_id": "diamond-1",
+      "chain_name": "zenrock",
+      "pretty_name": "Zenrock Mainnet",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "zen",
+      "slip44": 118
+    },
+    "zetachain_7000-1": {
+      "chain_id": "zetachain_7000-1",
+      "chain_name": "zetachain",
+      "pretty_name": "ZetaChain",
+      "network_type": "mainnet",
+      "status": "live",
+      "bech32_prefix": "zeta",
+      "slip44": 60
+    }
+  },
+  "endpoints": {},
+  "stakingData": {
+    "aaronetwork": {
+      "apr": 6.652,
+      "inflation": 8,
+      "communityTax": 20,
+      "bondedRatio": 96.211952,
+      "lastUpdated": 1755323176048
+    },
+    "arkh": {
+      "apr": 5.4444,
+      "inflation": 5,
+      "communityTax": 2,
+      "bondedRatio": 90.001204,
+      "lastUpdated": 1755323180779
+    },
+    "bostrom": {
+      "apr": 10.0132,
+      "inflation": 5.46,
+      "communityTax": 10,
+      "bondedRatio": 49.075046,
+      "lastUpdated": 1755323187568
+    },
+    "dhealth": {
+      "apr": 10.2521,
+      "inflation": 10,
+      "communityTax": 2,
+      "bondedRatio": 95.589895,
+      "lastUpdated": 1755323199251
+    },
+    "fxcore": {
+      "apr": 10.7021,
+      "inflation": 17.729111,
+      "communityTax": 40,
+      "bondedRatio": 99.395805,
+      "lastUpdated": 1755323206192
+    },
+    "ggezchain": {
+      "apr": null,
+      "inflation": 0,
+      "communityTax": 2,
+      "bondedRatio": 100,
+      "lastUpdated": 1755323208101
+    },
+    "gitopia": {
+      "apr": 15.0647,
+      "inflation": 13,
+      "communityTax": 5,
+      "bondedRatio": 81.979485,
+      "lastUpdated": 1755323208667
+    },
+    "milkyway": {
+      "apr": 6.3028,
+      "inflation": 7,
+      "communityTax": 10,
+      "bondedRatio": 99.955282,
+      "lastUpdated": 1755323227080
+    },
+    "nyx": {
+      "apr": null,
+      "inflation": 0,
+      "communityTax": 2,
+      "bondedRatio": 84.111872,
+      "lastUpdated": 1755323232654
+    },
+    "pocket": {
+      "apr": null,
+      "inflation": 0,
+      "communityTax": 2,
+      "bondedRatio": 98.06439,
+      "lastUpdated": 1755323239197
+    },
+    "xarchain": {
+      "apr": 17.697,
+      "inflation": 18.0582,
+      "communityTax": 2,
+      "bondedRatio": 100,
+      "lastUpdated": 1755323259869
+    }
+  }
+}
