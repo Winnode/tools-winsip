@@ -1,8 +1,8 @@
 export const paxiConfig = {
     chainId: 'paxi-mainnet',
     chainName: 'Paxi Mainnet',
-    rpc: 'https://rpc-paxi.vinjan.xyz',
-    rest: 'https://api-paxi.vinjan.xyz',
+    rpc: 'https://rpc.cosmos.directory/paxi',
+    rest: 'https://rest.cosmos.directory/paxi',
     bip44: {
         coinType: 118,
     },
